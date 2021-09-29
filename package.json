@@ -1,0 +1,24 @@
+{
+  "name": "fidelizei-back",
+  "version": "1.0.0",
+  "description": "Olá Mundo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodolfodicastro/fidelizei-back.git"
+  },
+  "author": "Margem Cientifica",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodolfodicastro/fidelizei-back/issues"
+  },
+  "homepage": "https://github.com/rodolfodicastro/fidelizei-back#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {}
+}
